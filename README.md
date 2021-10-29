@@ -1,5 +1,5 @@
 # zumi-nodejs-app
-Its a nodejs REST Api that allows users to create, read, update and delete Products and Orders.
+A nodejs REST Api that allows users to perform CRUD operations on Product and Order records
 
 # Getting Started
 Clone the repo
