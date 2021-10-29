@@ -10,7 +10,7 @@ git clone https://github.com/Jeffkungu/zumi-nodejs-app.git
 ```
 
 ### Prerequisites
-Before running the app make sure you have installed bellow apps and packages
+Before running the app make sure you have installed below apps and packages
 
 * node
 * npm
@@ -20,13 +20,13 @@ Before running the app make sure you have installed bellow apps and packages
 
 ### Running The App
 
-Make sure mongodb is up and running by executing the command bellow: 
+Make sure mongodb is up and running by executing the command below: 
 
 ```bash
 "Path for installed mongodb location"/bin/mongod --dbpath="Path for storing the documents"
 ```
 
-To run the app execute the command bellow in a different terminal
+To run the app execute the command below in a different terminal
 ```bash
 npm start
 ```
