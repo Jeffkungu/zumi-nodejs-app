@@ -13,6 +13,7 @@ git clone https://github.com/Jeffkungu/zumi-nodejs-app.git
 Before running the app make sure you have installed bellow apps and packages
 
 * node
+* npm
 * mongodb
 * postman
 * Robo 3T
